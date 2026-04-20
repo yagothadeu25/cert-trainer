@@ -73,8 +73,7 @@ ollama pull llama3.2:3b
 mkdir ~/estudos && cd ~/estudos
 
 # Baixar
-curl -O https://seusite.com/cert_trainer.py
-
+curl -O https://github.com/yagothadeu25/cert-trainer
 # Instalar dependência
 pip install requests
 
